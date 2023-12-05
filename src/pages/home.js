@@ -3,9 +3,9 @@ import Construction from '../components/construction/construction'
 
 const Home = () => {
     return (
-        <body>
+        <>
             <Construction/>
-        </body>
+        </>
     )
 }
 
